@@ -1,2 +1,3 @@
 discovery:
-  port:6666
+  port: 2221
+  hostname: localhost
