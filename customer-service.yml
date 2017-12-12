@@ -1,2 +1,4 @@
 customer:
   port: 2222
+  discovery:
+    port: 1111
