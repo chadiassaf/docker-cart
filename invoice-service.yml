@@ -1,2 +1,4 @@
 invoice:
   port: 4444
+  discovery:
+    port:1111
