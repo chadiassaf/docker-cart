@@ -1,3 +1,4 @@
 config:
   port:6666
-
+  discovery:
+    port:1111
