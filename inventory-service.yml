@@ -3,5 +3,5 @@ inventory:
   discovery:
     port: 1111
   docker:
-    datasource: jdbc:mysql://localhost:32768/microservices_prod
+    datasource: jdbc:mysql://localhost:3306/microservices_prod
     
