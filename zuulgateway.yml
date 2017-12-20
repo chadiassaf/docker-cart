@@ -1,5 +1,5 @@
 zuul:
-  port: 4422
+  port: 1101
   
 discovery:
    port: 1111
