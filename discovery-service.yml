@@ -1,3 +1,6 @@
 discovery:
   port: 1111
   hostname: localhost
+  
+svc:
+  leba: 123
